@@ -17,7 +17,16 @@ This project explores data analysis using **Excel Pivot Tables** on a movie data
 - Exploratory Data Analysis  
 - Excel Functions & Formatting  
 - Report Building  
-- Business Intelligence Concepts  
+- Business Intelligence Concepts
+
+  ## Screenshots.
+
+![Pivot Table - Summary View](https://github.com/SanMendadala/movie-data-pivot-analysis/blob/main/Screenshot%202025-05-20%20213048.png?raw=true)
+
+![Pivot Table - Detailed View](https://github.com/SanMendadala/movie-data-pivot-analysis/blob/main/Screenshot%202025-05-20%20213358.png?raw=true)
+
+![Pivot Table - Formatting Options](https://github.com/SanMendadala/movie-data-pivot-analysis/blob/main/Screenshot%202025-05-20%20213418.png?raw=true)
+
 
 ## Next Steps
 - Replicating similar analyses in **Power BI** and **Tableau**.
